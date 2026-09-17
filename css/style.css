@@ -6,3 +6,30 @@ table, th, td {
   th, td {
     padding: 8px;
   }
+
+  .container {
+    width: 80%;
+    max-width: 900px;
+    margin: 40px auto;
+}
+
+/* Page headings */
+.page-title {
+    text-align: center;
+    color: #333;
+}
+
+.section {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.section-title {
+    color: #555;
+}
+
+.text {
+    line-height: 1.6;
+}
